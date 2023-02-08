@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Calculator\\.nuget\\packages\\": {}
+    "/home/codespace/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Calculator\\Desktop\\Programs\\C#\\secondProject\\secondProject.csproj",
+      "projectUniqueName": "/workspaces/n2k-solver-cs/secondProject.csproj",
       "projectName": "secondProject",
-      "projectPath": "C:\\Users\\Calculator\\Desktop\\Programs\\C#\\secondProject\\secondProject.csproj",
-      "packagesPath": "C:\\Users\\Calculator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Calculator\\Desktop\\Programs\\C#\\secondProject\\obj\\",
+      "projectPath": "/workspaces/n2k-solver-cs/secondProject.csproj",
+      "packagesPath": "/home/codespace/.nuget/packages/",
+      "outputPath": "/workspaces/n2k-solver-cs/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Calculator\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/codespace/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/dotnet/7.0.102/sdk/7.0.102/RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = secondProject
-build_property.ProjectDir = C:\Users\Calculator\Desktop\Programs\C#\secondProject\
+build_property.ProjectDir = /workspaces/n2k-solver-cs/

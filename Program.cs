@@ -53,9 +53,7 @@ namespace secondProject  {
                 }
             }
 
-            
-
-            
+            Console.Write("Done! Press enter to exit program");
             Console.ReadLine();
 
         }

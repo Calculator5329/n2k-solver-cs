@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7u5IoVenTJ0ywB2ja+FfyG8nTOXNXqyPAHTBQAJSLYLECIu9Gr0hO/dJgU+hX+3d+ajVp/qrX9Tsn2KlSFMnJw==",
+  "dgSpecHash": "FWR191lkWU1xn797cTuVtsNoc/n8J2zkL5hXyqPthUAxyhUKfnv509sy5dnnbl/PlTXtD1lV1skmsl2K9uiPyA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Calculator\\Desktop\\Programs\\C#\\secondProject\\secondProject.csproj",
+  "projectFilePath": "/workspaces/n2k-solver-cs/secondProject.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
