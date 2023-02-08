@@ -1,0 +1,15 @@
+C:\Users\Calculator\Desktop\Programs\C#\secondProject\bin\Debug\net7.0\secondProject.exe
+C:\Users\Calculator\Desktop\Programs\C#\secondProject\bin\Debug\net7.0\secondProject.deps.json
+C:\Users\Calculator\Desktop\Programs\C#\secondProject\bin\Debug\net7.0\secondProject.runtimeconfig.json
+C:\Users\Calculator\Desktop\Programs\C#\secondProject\bin\Debug\net7.0\secondProject.dll
+C:\Users\Calculator\Desktop\Programs\C#\secondProject\bin\Debug\net7.0\secondProject.pdb
+C:\Users\Calculator\Desktop\Programs\C#\secondProject\obj\Debug\net7.0\secondProject.csproj.AssemblyReference.cache
+C:\Users\Calculator\Desktop\Programs\C#\secondProject\obj\Debug\net7.0\secondProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Calculator\Desktop\Programs\C#\secondProject\obj\Debug\net7.0\secondProject.AssemblyInfoInputs.cache
+C:\Users\Calculator\Desktop\Programs\C#\secondProject\obj\Debug\net7.0\secondProject.AssemblyInfo.cs
+C:\Users\Calculator\Desktop\Programs\C#\secondProject\obj\Debug\net7.0\secondProject.csproj.CoreCompileInputs.cache
+C:\Users\Calculator\Desktop\Programs\C#\secondProject\obj\Debug\net7.0\secondProject.dll
+C:\Users\Calculator\Desktop\Programs\C#\secondProject\obj\Debug\net7.0\refint\secondProject.dll
+C:\Users\Calculator\Desktop\Programs\C#\secondProject\obj\Debug\net7.0\secondProject.pdb
+C:\Users\Calculator\Desktop\Programs\C#\secondProject\obj\Debug\net7.0\secondProject.genruntimeconfig.cache
+C:\Users\Calculator\Desktop\Programs\C#\secondProject\obj\Debug\net7.0\ref\secondProject.dll
